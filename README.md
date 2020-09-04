@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Stephanie Torres</h1>
+<p align="center">
+<a href="https://linkedin.com/in/smarietorres" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="smarietorres" height="30" width="30" /></a>
+<a href="https://fb.com/thetrainingdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="thetrainingdev" height="30" width="30" /></a>
+<a href="https://instagram.com/razberripi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="razberripi" height="30" width="30" /></a>
+</p>
 
 - 👨‍💻 All of my projects are available at [https://stephanietorres.dev](https://stephanietorres.dev)
 
-- 📫 How to reach me **hi@stephanietorres.dev**
+- 📫 **hi@stephanietorres.dev**
 
 - ⚡ Fun fact **I'm a long-time competitive gamer and I play the violin?**
 
@@ -10,8 +15,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smarietorres&show_icons=true" alt="smarietorres" /></p>
 
-<p align="center">
-<a href="https://linkedin.com/in/smarietorres" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="smarietorres" height="30" width="30" /></a>
-<a href="https://fb.com/thetrainingdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="thetrainingdev" height="30" width="30" /></a>
-<a href="https://instagram.com/razberripi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="razberripi" height="30" width="30" /></a>
-</p>
