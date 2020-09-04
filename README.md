@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Stephanie Torres</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://stephanietorres.dev](https://stephanietorres.dev)
 
